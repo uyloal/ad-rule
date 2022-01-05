@@ -1,0 +1,5 @@
+m.baidu.com###results-pre > div.c-result.result:nth-child(2) > div.c-result-content:first-child > div > div.ball-wrapper__1wwgl.ball-hidden__35xzn
+m.baidu.com###se-form
+m.baidu.com##div[data-from=“etpl”]
+||boxer.baidu.com^
+dddsb.cn###AD
